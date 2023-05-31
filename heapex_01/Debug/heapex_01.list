@@ -411,6 +411,7 @@ int main(void)
  8000560:	f003 fa78 	bl	8003a54 <pvPortMalloc>
  8000564:	6078      	str	r0, [r7, #4]
 
+
   while (1)
  8000566:	e7fe      	b.n	8000566 <main+0x2e>
  8000568:	08003ecc 	.word	0x08003ecc

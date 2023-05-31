@@ -4555,3 +4555,389 @@
 2023-05-31 09:59:28,480 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 3984mS.
 2023-05-31 09:59:28,482 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 2mS.
 2023-05-31 09:59:28,490 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2023-05-31 11:00:32,646 [INFO] MainUpdater:2671 - connection check result : 10
+2023-05-31 11:00:32,828 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to false
+2023-05-31 11:00:32,935 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: C:\Users\158224\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2023-05-31 11:00:32,937 [INFO] MultiScanPanel:197 - Auto-refresh data requested => check proxy status ongoing
+2023-05-31 11:00:32,937 [INFO] MultiScanPanel:201 - Proxy status is invalid
+2023-05-31 11:00:32,938 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2023-05-31 11:00:33,765 [INFO] DetailPanel:309 - Set advertising image to C:/Users/158224/STM32Cube/Repository/\en.prom-stm32h5-mcu-finder.jpg
+2023-05-31 11:01:03,622 [INFO] MainUpdater:2671 - connection check result : 10
+2023-05-31 11:01:03,623 [INFO] MainUpdater:2671 - connection check result : 10
+2023-05-31 11:01:03,824 [INFO] MicroXplorer:448 - Change Database Path : 
+2023-05-31 11:01:03,825 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2023-05-31 11:01:03,825 [WARN] ThirdParty:813 - waiting for thirdparty lock release [close project]
+2023-05-31 11:01:03,826 [INFO] ThirdParty:815 - entering critical section [close project]
+2023-05-31 11:01:03,826 [INFO] ThirdParty:825 - exiting critical section [close project]
+2023-05-31 11:01:03,828 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2023-05-31 11:01:03,938 [WARN] IpParametersView:144 - Warning: This peripheral hasn't parameters
+2023-05-31 11:01:03,972 [WARN] MainPanel:246 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-05-31 11:01:04,035 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 846973928 Bytes (1073741824)
+2023-05-31 11:01:04,038 [INFO] MicroXplorer:448 - Change Database Path : 
+2023-05-31 11:01:04,038 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2023-05-31 11:01:04,039 [INFO] OpenFileManager:313 - Change cursor
+2023-05-31 11:01:04,157 [INFO] RulesReader:57 - Compatibility file has been processed (242 Rules)
+2023-05-31 11:01:10,191 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2023-05-31 11:01:11,172 [INFO] ImportTextPane:167 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2023-05-31 11:01:11,173 [INFO] ImportTextPane:167 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2023-05-31 11:01:11,173 [INFO] ImportTextPane:167 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2023-05-31 11:01:11,270 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-05-31 11:01:11,270 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-05-31 11:01:11,271 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2023-05-31 11:01:11,583 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-05-31 11:01:11,583 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-05-31 11:01:11,583 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.6.0: no header file found
+2023-05-31 11:01:11,593 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.4: no header file found
+2023-05-31 11:01:11,595 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-05-31 11:01:11,595 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-05-31 11:01:11,595 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-05-31 11:01:11,595 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-05-31 11:01:11,595 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-05-31 11:01:11,601 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-05-31 11:01:11,601 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-05-31 11:01:11,601 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2023-05-31 11:01:11,603 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.3.0.0: no header file found
+2023-05-31 11:01:11,617 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,618 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,618 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,618 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,618 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,619 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,619 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,619 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,619 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,619 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,619 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,619 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,619 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,620 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,620 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,620 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,620 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,620 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,620 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,620 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,620 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,621 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,621 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,621 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,621 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,622 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,622 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,622 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,622 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,622 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,622 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2023-05-31 11:01:11,624 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.0: no header file found
+2023-05-31 11:01:11,625 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-05-31 11:01:11,626 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-05-31 11:01:11,626 [WARN] ApiManager:304 - Cannot register API 'Board Extension:PGEEZ1' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-05-31 11:01:11,626 [WARN] ApiManager:304 - Cannot register API 'Board Part:M24' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-05-31 11:01:11,626 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-05-31 11:01:11,626 [WARN] ApiManager:304 - Cannot register API 'Board Part:M95P32' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-05-31 11:01:11,626 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:SPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-05-31 11:01:11,626 [WARN] ApiManager:304 - Cannot register API 'PGEEZ1:QDSPI' from pack STMicroelectronics.X-CUBE-EEPRMA1.4.1.0: no header file found
+2023-05-31 11:01:11,956 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-05-31 11:01:11,957 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-05-31 11:01:11,957 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.5.0: no header file found
+2023-05-31 11:01:11,979 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-05-31 11:01:11,979 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-05-31 11:01:11,979 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2023-05-31 11:01:11,979 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.3.0: no header file found
+2023-05-31 11:01:18,190 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 934622232 Bytes (1073741824)
+2023-05-31 11:01:18,193 [WARN] ThirdParty:779 - waiting for thirdparty lock release [change project]
+2023-05-31 11:01:18,194 [INFO] ThirdParty:781 - entering critical section [change project]
+2023-05-31 11:01:18,194 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-05-31 11:01:18,194 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-05-31 11:01:18,194 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-05-31 11:01:18,195 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-05-31 11:01:18,195 [INFO] ThirdParty:967 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2023-05-31 11:01:18,195 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-05-31 11:01:18,195 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2023-05-31 11:01:18,195 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.3
+2023-05-31 11:01:18,195 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-05-31 11:01:18,195 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 1.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.5.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-05-31 11:01:18,196 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-05-31 11:01:18,204 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-05-31 11:01:18,204 [INFO] ThirdParty:787 - exiting critical section [change project]
+2023-05-31 11:01:18,760 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2023-05-31 11:01:18,760 [INFO] PinOutPanel:1463 - setPackage(STM32F767ZITx,LQFP144)
+2023-05-31 11:01:19,526 [INFO] UtilMem:74 - Before build in PCC Used Memory: 942991496 Bytes (1073741824)
+2023-05-31 11:01:20,046 [INFO] UtilMem:74 - After build in PCC Used Memory: 818249864 Bytes (1073741824)
+2023-05-31 11:01:20,083 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,083 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,083 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,083 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,083 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,083 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,090 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,090 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,090 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,091 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,091 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,091 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,091 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,091 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,091 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,091 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,092 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,092 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,092 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,092 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,093 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,093 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,093 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,093 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,093 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,093 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,096 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,096 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,097 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,097 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,097 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,098 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,098 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,098 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,098 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,100 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,100 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,101 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,109 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,109 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,109 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,109 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,112 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,113 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,113 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,113 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,113 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,113 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,113 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,113 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,113 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,113 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,113 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,113 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,121 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,121 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,121 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,121 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,121 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,121 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,121 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,121 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,129 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,129 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,129 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,129 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,129 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2023-05-31 11:01:20,171 [INFO] ApiDbMcu:468 - Load IP Config File for PDM2PCM
+2023-05-31 11:01:20,256 [INFO] OpenFileManager:333 - Restore cursor
+2023-05-31 11:01:20,895 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 861783792 Bytes (1073741824)
+2023-05-31 11:01:21,008 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 900530600 Bytes (1073741824)
+2023-05-31 11:01:21,550 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2023-05-31 11:01:21,550 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2023-05-31 11:01:21,550 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2023-05-31 11:01:21,554 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2023-05-31 11:01:22,508 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\license.tmp_save
+2023-05-31 11:01:22,667 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\license.tmp
+2023-05-31 11:01:22,819 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\cortex.tmp_save
+2023-05-31 11:01:22,962 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\cortex.tmp
+2023-05-31 11:01:22,996 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_it.c_save
+2023-05-31 11:01:23,125 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_it.c
+2023-05-31 11:01:23,148 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_it.h_save
+2023-05-31 11:01:23,328 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_it.h
+2023-05-31 11:01:23,360 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_hal_msp.c_save
+2023-05-31 11:01:23,529 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_hal_msp.c
+2023-05-31 11:01:23,545 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\system.tmp_save
+2023-05-31 11:01:23,636 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\system.tmp
+2023-05-31 11:01:23,669 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_hal_conf.h_save
+2023-05-31 11:01:23,811 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_hal_conf.h
+2023-05-31 11:01:23,969 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\main.h_save
+2023-05-31 11:01:24,090 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\main.h
+2023-05-31 11:01:24,119 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\main.c_save
+2023-05-31 11:01:24,338 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\main.c
+2023-05-31 11:01:25,662 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 183mS.
+2023-05-31 11:01:25,672 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2023-05-31 11:01:26,458 [INFO] ConfigFileManager:1271 - The Die is : DIE451
+2023-05-31 11:01:26,485 [INFO] ApiDbMcu:468 - Load IP Config File for FATFS
+2023-05-31 11:01:26,550 [INFO] ApiDbMcu:468 - Load IP Config File for FREERTOS
+2023-05-31 11:01:26,575 [INFO] ApiDbMcu:468 - Load IP Config File for LIBJPEG
+2023-05-31 11:01:26,748 [INFO] ApiDbMcu:468 - Load IP Config File for LWIP
+2023-05-31 11:01:26,817 [INFO] ApiDbMcu:468 - Load IP Config File for MBEDTLS
+2023-05-31 11:01:26,904 [INFO] ApiDbMcu:468 - Load IP Config File for USB_DEVICE
+2023-05-31 11:01:26,935 [INFO] ApiDbMcu:468 - Load IP Config File for USB_HOST
+2023-05-31 11:01:30,992 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 5320mS.
+2023-05-31 11:01:31,000 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 8mS.
+2023-05-31 11:01:31,004 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2023-05-31 11:01:32,940 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
+2023-05-31 11:01:32,942 [INFO] ApiDb:276 - Save user favorites file C:\Users\158224/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-05-31 11:01:32,942 [INFO] ApiDb:280 - User favorites MCUs=[]
+2023-05-31 11:01:44,540 [INFO] RtosManager:791 - Current active RTOS is FREERTOS [Cortex-M7NS]
+2023-05-31 11:01:45,711 [ERROR] RtosPanel:552 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-05-31 11:01:45,876 [ERROR] RtosPanel:552 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-05-31 11:01:50,463 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 823576072 Bytes (1073741824)
+2023-05-31 11:01:52,252 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 888138400 Bytes (1073741824)
+2023-05-31 11:01:54,862 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 862485224 Bytes (1073741824)
+2023-05-31 11:01:57,018 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: FREERTOS
+2023-05-31 11:01:57,019 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2023-05-31 11:01:57,019 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2023-05-31 11:01:57,019 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2023-05-31 11:01:57,021 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2023-05-31 11:01:57,946 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\license.tmp_save
+2023-05-31 11:01:58,038 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\license.tmp
+2023-05-31 11:01:58,136 [INFO] Middleware:1388 - No code input for Bsp Dependency
+2023-05-31 11:01:58,158 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_inc.tmp_save
+2023-05-31 11:01:58,260 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_inc.tmp
+2023-05-31 11:01:58,278 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-05-31 11:01:58,402 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_kernelInit.tmp
+2023-05-31 11:01:58,415 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-05-31 11:01:58,492 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_kernelStart.tmp
+2023-05-31 11:01:58,509 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_typedefs.tmp_save
+2023-05-31 11:01:58,621 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_typedefs.tmp
+2023-05-31 11:01:58,637 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_vars.tmp_save
+2023-05-31 11:01:58,746 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_vars.tmp
+2023-05-31 11:01:58,760 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_pfp.tmp_save
+2023-05-31 11:01:58,832 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_pfp.tmp
+2023-05-31 11:01:58,846 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-05-31 11:01:58,964 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_obj_creat.tmp
+2023-05-31 11:01:58,984 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_default_thread.tmp_save
+2023-05-31 11:01:59,101 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_default_thread.tmp
+2023-05-31 11:01:59,125 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_threads.tmp_save
+2023-05-31 11:01:59,232 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_threads.tmp
+2023-05-31 11:01:59,252 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\FreeRTOSConfig.h_save
+2023-05-31 11:01:59,387 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\FreeRTOSConfig.h
+2023-05-31 11:01:59,410 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\freertos.c_save
+2023-05-31 11:01:59,550 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\freertos.c
+2023-05-31 11:01:59,568 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\cortex.tmp_save
+2023-05-31 11:01:59,662 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\cortex.tmp
+2023-05-31 11:01:59,697 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_it.c_save
+2023-05-31 11:01:59,916 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_it.c
+2023-05-31 11:01:59,928 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_it.h_save
+2023-05-31 11:02:00,055 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_it.h
+2023-05-31 11:02:00,095 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_hal_msp.c_save
+2023-05-31 11:02:00,259 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_hal_msp.c
+2023-05-31 11:02:00,265 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\system.tmp_save
+2023-05-31 11:02:00,373 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\system.tmp
+2023-05-31 11:02:00,400 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_hal_conf.h_save
+2023-05-31 11:02:00,566 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_hal_conf.h
+2023-05-31 11:02:00,666 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\main.h_save
+2023-05-31 11:02:00,833 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\main.h
+2023-05-31 11:02:00,851 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\main.c_save
+2023-05-31 11:02:01,048 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\main.c
+2023-05-31 11:02:02,580 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 374mS.
+2023-05-31 11:02:02,593 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2023-05-31 11:02:03,315 [INFO] ConfigFileManager:1271 - The Die is : DIE451
+2023-05-31 11:02:06,455 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 3862mS.
+2023-05-31 11:02:06,457 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 2mS.
+2023-05-31 11:02:06,472 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 1mS.
+2023-05-31 14:16:04,233 [ERROR] RtosPanel:552 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-05-31 14:16:18,943 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 827001152 Bytes (1073741824)
+2023-05-31 14:16:20,677 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 888695768 Bytes (1073741824)
+2023-05-31 14:16:23,464 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 801499272 Bytes (1073741824)
+2023-05-31 14:16:25,397 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: FREERTOS
+2023-05-31 14:16:25,397 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2023-05-31 14:16:25,397 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2023-05-31 14:16:25,397 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2023-05-31 14:16:25,397 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2023-05-31 14:16:25,401 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2023-05-31 14:16:26,545 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\license.tmp_save
+2023-05-31 14:16:26,655 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\license.tmp
+2023-05-31 14:16:26,721 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\gpio.tmp_save
+2023-05-31 14:16:26,817 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\gpio.tmp
+2023-05-31 14:16:26,928 [INFO] Middleware:1388 - No code input for Bsp Dependency
+2023-05-31 14:16:26,948 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_inc.tmp_save
+2023-05-31 14:16:27,072 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_inc.tmp
+2023-05-31 14:16:27,091 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-05-31 14:16:27,191 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_kernelInit.tmp
+2023-05-31 14:16:27,213 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-05-31 14:16:27,296 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_kernelStart.tmp
+2023-05-31 14:16:27,311 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_typedefs.tmp_save
+2023-05-31 14:16:27,390 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_typedefs.tmp
+2023-05-31 14:16:27,417 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_vars.tmp_save
+2023-05-31 14:16:27,567 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_vars.tmp
+2023-05-31 14:16:27,598 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_pfp.tmp_save
+2023-05-31 14:16:27,769 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_pfp.tmp
+2023-05-31 14:16:27,800 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-05-31 14:16:27,958 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_obj_creat.tmp
+2023-05-31 14:16:27,974 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_default_thread.tmp_save
+2023-05-31 14:16:28,140 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_default_thread.tmp
+2023-05-31 14:16:28,162 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_threads.tmp_save
+2023-05-31 14:16:28,277 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\rtos_threads.tmp
+2023-05-31 14:16:28,327 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\FreeRTOSConfig.h_save
+2023-05-31 14:16:28,529 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\FreeRTOSConfig.h
+2023-05-31 14:16:28,570 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\freertos.c_save
+2023-05-31 14:16:28,765 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\freertos.c
+2023-05-31 14:16:28,799 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\cortex.tmp_save
+2023-05-31 14:16:28,954 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\cortex.tmp
+2023-05-31 14:16:29,011 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_it.c_save
+2023-05-31 14:16:29,231 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_it.c
+2023-05-31 14:16:29,255 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_it.h_save
+2023-05-31 14:16:29,410 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_it.h
+2023-05-31 14:16:29,453 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_hal_msp.c_save
+2023-05-31 14:16:29,668 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\stm32f7xx_hal_msp.c
+2023-05-31 14:16:29,688 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\system.tmp_save
+2023-05-31 14:16:29,829 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\MXTmpFiles\system.tmp
+2023-05-31 14:16:29,897 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_hal_conf.h_save
+2023-05-31 14:16:30,113 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\stm32f7xx_hal_conf.h
+2023-05-31 14:16:30,187 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\main.h_save
+2023-05-31 14:16:30,326 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Inc\main.h
+2023-05-31 14:16:30,354 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\main.c_save
+2023-05-31 14:16:30,575 [INFO] CodeEngine:257 - Generated code: C:\Users\158224\Desktop\MCU_2\Task_Create\Core\Src\main.c
+2023-05-31 14:16:32,161 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 411mS.
+2023-05-31 14:16:32,168 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2023-05-31 14:16:33,057 [INFO] ConfigFileManager:1271 - The Die is : DIE451
+2023-05-31 14:16:36,129 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 3961mS.
+2023-05-31 14:16:36,132 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 3mS.
+2023-05-31 14:16:36,133 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
