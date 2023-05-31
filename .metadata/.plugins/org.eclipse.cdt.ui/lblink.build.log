@@ -1,0 +1,10 @@
+17:46:57 **** Incremental Build of configuration Debug for project lblink ****
+make -j8 all 
+arm-none-eabi-size   lblink.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16456	     20	   2812	  19288	   4b58	lblink.elf
+Finished building: default.size.stdout
+ 
+
+17:46:58 Build Finished. 0 errors, 0 warnings. (took 290ms)
+
